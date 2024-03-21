@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+.content {
+  overflow-y: auto; /* Enable vertical scrolling if content exceeds container height */
+  max-height: 100vh; /* Limit height to viewport height */
+}

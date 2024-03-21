@@ -1,0 +1,14 @@
+.register-page {
+    background-image: src('img1.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .register-form {
+    width: 400px;
+  }
+  

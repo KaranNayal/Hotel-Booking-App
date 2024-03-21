@@ -1,0 +1,24 @@
+.carousel-img {
+  height: 300px; /* Adjust the height of the carousel images according to your preference */
+  object-fit: cover; /* Ensure that the image covers the entire carousel item */
+}
+
+.login-footer {
+  margin-top: 20px; /* Adjust the top margin of the footer */
+  padding: 20px 0; /* Add padding to the top and bottom of the footer */
+}
+.navbar {
+  padding: 10px 20px; /* Adjust the padding as needed */
+}
+
+.navbar-brand {
+  font-size: 1.5rem; /* Adjust the font size as needed */
+}
+
+.nav-link {
+  font-size: 1.2rem; /* Adjust the font size as needed */
+}
+.logo-size {
+  max-width: 75px; /* Adjust the max-width as needed */
+  /* Add any other relevant styling for the logo */
+}

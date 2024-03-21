@@ -1,0 +1,24 @@
+/* HomePage.css */
+
+.animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+  }
+  
+  @keyframes fadeInDown {
+    from {
+      opacity: 0;
+      transform: translate3d(0, -100%, 0);
+    }
+  
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+  .fullscreen-container {
+    height: 100vh; /* Set height to 100% of viewport height */
+    width: 100vw; /* Set width to 100% of viewport width */
+    overflow: auto;
+  }
+  
